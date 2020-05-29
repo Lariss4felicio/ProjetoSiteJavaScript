@@ -1,0 +1,43 @@
+body{
+    background-color: #ba7151;
+    font: bold 12pt Arial;
+    color: #444343;
+}
+header{
+    text-align: center;
+    color:#ffffff;
+    font: bold 20pt Arial;
+}
+section{
+    background-color: #dddddd;
+    border-radius: 10px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, .5);
+    padding: 15px;
+    width: 400px;
+    margin: auto;
+}
+div#data{
+    align-items: center;
+}
+div#res{
+    text-align: center;
+}
+input#txtdia{
+    border-radius: 5px;
+    border-color: rgba(0, 0, 0, .5)    
+}
+select#txtmes{
+    border-radius: 5px;
+    border-color: rgba(0, 0, 0, .5)    
+
+}
+input#botao{
+    border-radius: 5px;
+    border-color: rgba(0, 0, 0, .5)    
+
+}
+footer{
+    font: normal 10pt Arial;
+    color: #ffffff;
+    text-align: center;
+}
